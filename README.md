@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# rails_learning_app
-Repo to learn about rails and more
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> Init project
